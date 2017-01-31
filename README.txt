@@ -1,7 +1,7 @@
-Igro se lahko zaûene z odkrtjem datoteke "Index.html" v brskalniku.
-Po koncu igre se stran zapre ali pa osveûi s pritiskom na gumb "F5".
+Igro se lahko za≈æene z odkrtjem datoteke "Index.html" v brskalniku.
+Po koncu igre se stran zapre ali pa osve≈æi s pritiskom na gumb "F5".
 
-PriporoËen brskalnik je Chrome. Zaradi varnostnih omejitev se lahko uporabi Firefox, ali pa se spremenijo nastavitve:
+Priporo√®en brskalnik je Chrome. Zaradi varnostnih omejitev se lahko uporabi Firefox, ali pa se spremenijo nastavitve:
 """
 Chrome
 
@@ -21,3 +21,5 @@ open /Applications/Google\ Chrome.app --args --allow-file-access-from-files
 """
 
 Pri uporabi Firefox-a je portebno dovoliti uporabo kursorja.
+
+Avtorja Urban Kocmut in An≈æe Ver≈°nik
